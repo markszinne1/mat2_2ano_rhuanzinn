@@ -25,3 +25,7 @@
 .escola-imagem{
     width: 25%;
 }
+
+.escola{
+    background-image: linear-gradient(#F47B0B,#FAFF01);
+}
