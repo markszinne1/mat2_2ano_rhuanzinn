@@ -53,6 +53,10 @@ escola-titulo{
 .estudante-imagem{
     width: 120px;
 }
+.estudante-titulo{
+    text-align: center;
+}
+
 .estudante-div{
     text-align: center;
     padding: 50px 0;
