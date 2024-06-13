@@ -65,3 +65,11 @@ escola-titulo{
     display: grid;
     grid-template-columns: 21% 21% 21% 21% 21% 21%;
 }
+.rodape{
+    background-color: black;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    text-align: center;
+}
